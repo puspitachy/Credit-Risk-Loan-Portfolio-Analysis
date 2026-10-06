@@ -1,0 +1,17 @@
+table,check,rows,action
+source,"Rows loaded (first line is a text note, skipped)",42535,"42,535 loans, 102 columns"
+source,Columns that are completely empty,40,dropped (LendingClub added them for later years)
+source,Duplicate loan IDs,0,none found
+loans,Loans that did not meet LendingClub's current credit policy,2749,status prefix removed; kept and flagged in meets_credit_policy = 0
+loans,Interest rate stored as text like ' 10.99%',42535,converted to a number (0.1099)
+borrowers,Employment length missing ('n/a'),1112,left blank; grouped as 'Unknown' in analysis
+borrowers,FICO given as a range (e.g. 735-739),42535,fico_score = midpoint of the range
+borrowers,Missing annual income,4,left blank (excluded from income analysis)
+borrowers,Annual income above $1M,15,kept (self-reported); income bands cap at '$150K+'
+borrowers,Home ownership 'NONE',8,merged into 'OTHER'
+loans,Purpose codes like 'debt_consolidation',14,relabelled 'Debt Consolidation' etc.
+loans,Funded amount lower than amount requested,1997,kept - funded_amnt is used as the loan value
+borrowers,Credit history before issue date could not be parsed,29,left blank
+borrowers,Borrowers with more than one loan,0,none - one loan per borrower
+loan_performance,Charged-off loans,4630,principal_lost = funded amount - principal repaid (recoveries not in this file)
+states,States in the data,50,mapped to name and US Census region
