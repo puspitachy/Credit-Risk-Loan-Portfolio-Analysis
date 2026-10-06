@@ -1,0 +1,8 @@
+loan_status,status_group,is_active,is_delinquent,is_default,days_past_due,sort_order
+Fully Paid,Closed - repaid,0,0,0,0,1
+Current,Active - current,1,0,0,0,2
+In Grace Period,Active - delinquent,1,1,0,1-15,3
+Late (16-30 days),Active - delinquent,1,1,0,16-30,4
+Late (31-120 days),Active - delinquent,1,1,0,31-120,5
+Default,Defaulted,1,0,1,121+,6
+Charged Off,Defaulted,0,0,1,charged off,7

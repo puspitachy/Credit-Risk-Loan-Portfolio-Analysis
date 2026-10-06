@@ -1,0 +1,5 @@
+model,roc_auc
+Logistic regression,0.7066300726076741
+Gradient boosting,0.7026627542132734
+LendingClub grade alone,0.6608239924242276
+FICO score alone,0.6215226350331211
