@@ -1,0 +1,23 @@
+{
+  "name": "Credit Risk",
+  "dataColors": ["#2A78D6", "#EB6834", "#1BAF7A", "#EDA100", "#E87BA4", "#008300", "#4A3AA7", "#E34948"],
+  "background": "#FFFFFF",
+  "foreground": "#0B0B0B",
+  "tableAccent": "#1F3A5F",
+  "good": "#1BAF7A",
+  "neutral": "#EDA100",
+  "bad": "#E34948",
+  "maximum": "#2A78D6",
+  "center": "#9CC3EE",
+  "minimum": "#F7FBFF",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#1F3A5F" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1F3A5F" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#52514E" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 28, "color": "#1F3A5F" }
+  },
+  "visualStyles": {
+    "*": { "*": { "border": [{ "show": false }], "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } } }] } },
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#F4F6F9" } }, "transparency": 0 }] } }
+  }
+}

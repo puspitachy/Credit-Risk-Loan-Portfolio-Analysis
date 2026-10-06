@@ -1,0 +1,8 @@
+sort_order,loan_status,status_group,days_past_due,loans,share_of_loans_pct,funded,outstanding
+1,Fully Paid,Closed - repaid,0,20096,47.25,203136600.0,0.0
+2,Current,Active - current,0,16725,39.32,193001475.0,96641412.0
+3,In Grace Period,Active - delinquent,1-15,400,0.94,5245425.0,2659926.0
+4,Late (16-30 days),Active - delinquent,16-30,87,0.2,971625.0,500624.0
+5,Late (31-120 days),Active - delinquent,31-120,556,1.31,7023875.0,4141324.0
+6,Default,Defaulted,121+,41,0.1,483925.0,295388.0
+7,Charged Off,Defaulted,charged off,4630,10.89,50433225.0,0.0

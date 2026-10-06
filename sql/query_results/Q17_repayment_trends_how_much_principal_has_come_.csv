@@ -1,0 +1,17 @@
+issue_year,status_group,loans,principal_repaid_pct,cash_returned_pct,paid_late_at_least_once_pct
+2007,Closed - repaid,445,100.0,116.4,10.1
+2007,Defaulted,158,36.7,55.4,18.4
+2008,Closed - repaid,1897,100.0,117.4,8.4
+2008,Defaulted,496,34.4,50.3,21.0
+2009,Active - current,1,98.1,125.4,0.0
+2009,Active - delinquent,12,69.9,101.0,41.7
+2009,Closed - repaid,4550,100.0,117.3,5.4
+2009,Defaulted,718,34.0,50.9,20.8
+2010,Active - current,3418,65.1,90.3,3.0
+2010,Active - delinquent,269,62.6,90.1,18.6
+2010,Closed - repaid,7395,100.0,115.9,3.2
+2010,Defaulted,1455,29.3,47.0,17.7
+2011,Active - current,13306,46.7,66.9,1.6
+2011,Active - delinquent,762,39.2,61.9,12.2
+2011,Closed - repaid,5809,100.0,111.8,1.1
+2011,Defaulted,1844,17.1,31.6,10.8

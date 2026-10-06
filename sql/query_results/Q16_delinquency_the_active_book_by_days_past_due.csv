@@ -1,0 +1,6 @@
+loan_status,days_past_due,loans,outstanding,share_of_outstanding_pct,avg_rate_pct
+Current,0,16725,96641412.0,92.71,12.13
+In Grace Period,1-15,400,2659926.0,2.55,13.65
+Late (16-30 days),16-30,87,500624.0,0.48,13.58
+Late (31-120 days),31-120,556,4141324.0,3.97,14.1
+Default,121+,41,295388.0,0.28,13.21

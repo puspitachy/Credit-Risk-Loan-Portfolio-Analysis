@@ -1,0 +1,23 @@
+state,state_name,region,loans,default_rate_pct,at_risk_value,risk_rank
+NV,Nevada,West,526,19.01,82252.0,1
+MO,Missouri,Midwest,765,14.25,125109.0,2
+FL,Florida,South,3104,13.92,529403.0,3
+GA,Georgia,South,1503,13.24,278495.0,4
+CA,California,West,7428,12.26,1413039.0,5
+MD,Maryland,South,1125,11.64,123511.0,6
+WA,Washington,West,888,11.49,107570.0,7
+AZ,Arizona,West,934,11.46,75980.0,8
+NC,North Carolina,South,830,11.08,260066.0,9
+WI,Wisconsin,Midwest,516,11.05,129690.0,10
+MI,Michigan,Midwest,796,10.93,102914.0,11
+NJ,New Jersey,Northeast,1988,10.66,343929.0,12
+MN,Minnesota,Midwest,652,10.58,135325.0,13
+CO,Colorado,West,857,9.92,132754.0,14
+OH,Ohio,Midwest,1329,9.86,224243.0,15
+TX,Texas,South,2915,9.67,398969.0,16
+NY,New York,Northeast,4066,9.67,892834.0,17
+MA,Massachusetts,Northeast,1438,9.39,210090.0,18
+IL,Illinois,Midwest,1671,9.34,377576.0,19
+PA,Pennsylvania,Northeast,1651,9.27,258355.0,20
+CT,Connecticut,Northeast,817,9.06,251741.0,21
+VA,Virginia,South,1486,8.88,306328.0,22

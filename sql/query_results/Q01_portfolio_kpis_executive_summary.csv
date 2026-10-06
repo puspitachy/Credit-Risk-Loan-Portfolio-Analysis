@@ -1,0 +1,2 @@
+number_of_loans,total_loan_value,avg_loan,default_rate_pct,default_rate_by_value_pct,active_loans,delinquency_rate_pct,avg_interest_rate_pct,weighted_avg_rate_pct,outstanding_balance,at_risk_loan_value,at_risk_share_of_outstanding_pct,principal_lost_to_charge_offs
+42535,460296150.0,10822.0,10.98,11.06,17809,5.86,12.16,12.89,104238674.0,7597263.0,7.29,37765366.0
